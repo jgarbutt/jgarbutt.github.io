@@ -8,7 +8,7 @@ port: 4000
 
 sass:
   sass_dir: assets/css
-  style: :nested
+  style: compressed
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
