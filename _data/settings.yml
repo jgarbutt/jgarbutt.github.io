@@ -34,7 +34,7 @@ google-analytics-ua: ''
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'thathungrymind'
+  disqus_shortname: ''
 
 #-------------------------------
 # About Section
